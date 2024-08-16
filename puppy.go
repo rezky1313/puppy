@@ -5,5 +5,5 @@ func Bark() string {
 }
 
 func Barks() string {
-	return "Woof! Woof!"
+	return "Woof! Woof!! Woof!"
 }
